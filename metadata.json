@@ -1,0 +1,8 @@
+
+{
+  "name": "The Green Oracle",
+  "description": "A smart plant disease detection system that uses AI to analyze leaf images and provide diagnosis, treatment, and prevention measures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
